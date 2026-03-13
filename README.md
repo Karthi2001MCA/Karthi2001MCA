@@ -1,28 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=KARTHIK%20BABU&fontSize=60&color=0:00F0FF,50:0072FF,100:001F3F&stroke=00F0FF&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=KARTHIK%20BABU&fontSize=60&fontAlign=50&color=0:00F0FF,50:0072FF,100:001F3F&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&width=900&lines=DATA+ANALYST;PYTHON+%7C+SQL+%7C+POWER+BI;DATA+SCIENCE+ENTHUSIAST;TURNING+DATA+INTO+INTELLIGENCE"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00F0FF&center=true&vCenter=true&width=900&lines=DATA+ANALYST;PYTHON+%7C+SQL+%7C+POWER+BI;DATA+SCIENCE+ENTHUSIAST;BUSINESS+INSIGHTS+FROM+DATA;DATA+VISUALIZATION+SPECIALIST"/>
+
 </p>
 
 ---
 
-# 🧠 SYSTEM PROFILE
+<p align="center">
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500">
+
+</p>
+
+---
+
+# 🧠 DATA ANALYTICS TERMINAL
 
 ```bash
-> user: Karthik Babu
-> role: Data Analyst
-> specialization: Data Analytics | Data Science
-> stack: Python | SQL | Power BI
-> mission: Transform raw data into strategic insights
+> Name: Karthik Babu
+> Role: Data Analyst
+> Tools: Python | SQL | Power BI
+> Skills: Data Cleaning | EDA | Data Visualization
+> Mission: Transform raw data into meaningful insights
 ```
 
 ---
 
-# ⚡ TECH STACK MATRIX
+# 📊 DATA STACK
 
 <p align="center">
 
@@ -32,9 +42,9 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-Data%20Analytics-00f0ff?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-00f0ff?style=for-the-badge&logo=python"/>
 
-<img src="https://img.shields.io/badge/SQL-Data%20Querying-ff9800?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/SQL-Database%20Querying-ff9800?style=for-the-badge&logo=postgresql"/>
 
 <img src="https://img.shields.io/badge/PowerBI-Dashboard%20Analytics-f2c811?style=for-the-badge&logo=powerbi"/>
 
@@ -46,23 +56,18 @@
 
 ---
 
-# 🚀 DATA PROJECT TERMINAL
-
-```bash
-loading portfolio projects...
-```
+# 🚀 FEATURED PROJECTS
 
 ### 📈 Regional Sales Analysis
 
 ```diff
 + Tools: Python | SQL | Power BI
-+ Data: 5 Years Regional Sales Dataset
-+ Insights: Profit margins, seasonal trends, product performance
-+ Output: Interactive Power BI dashboard
++ Analysis: 5 years sales dataset
++ Insights: regional performance, product trends
++ Dashboard: interactive KPI visualization
 ```
 
-🔗 Repository
-https://github.com/Karthi2001MCA/Regional-Sales-Analysis-Python-Sql-Power-Bi-
+🔗 https://github.com/Karthi2001MCA/Regional-Sales-Analysis-Python-Sql-Power-Bi-
 
 ---
 
@@ -70,17 +75,16 @@ https://github.com/Karthi2001MCA/Regional-Sales-Analysis-Python-Sql-Power-Bi-
 
 ```diff
 + Tools: Python | SQL | Power BI
-+ Analysis: Customer purchasing patterns
-+ Techniques: EDA | SQL insights | dashboard visualization
-+ Output: Customer segmentation insights
++ Analysis: customer purchasing patterns
++ Insights: high value customers & behavior trends
++ Visualization: interactive dashboards
 ```
 
-🔗 Repository
-https://github.com/Karthi2001MCA/Customer_Behavior_Analysis
+🔗 https://github.com/Karthi2001MCA/Customer_Behavior_Analysis
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📈 GITHUB ANALYTICS
 
 <p align="center">
 
@@ -92,27 +96,31 @@ https://github.com/Karthi2001MCA/Customer_Behavior_Analysis
 
 ---
 
-# 🛰 VISITOR TRACKER
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Karthi2001MCA&label=PROFILE+VISITS&color=00F0FF&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/karthik-babu-017386227/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Karthik%20Babu-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:karthikbabu3026@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-karthikbabu3026@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
+
+</a>
 
 </p>
 
 ---
 
-# 🌐 CONNECT
+# 🛰 PROFILE VISITS
 
 <p align="center">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:karthikbabu3026@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-FF3D00?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Karthi2001MCA&label=PROFILE+VISITS&color=00F0FF&style=for-the-badge"/>
 
 </p>
 
