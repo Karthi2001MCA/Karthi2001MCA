@@ -1,89 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=KARTHIK%20BABU&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=KARTHIK%20BABU&fontSize=55&fontColor=00E5FF&animation=fadeIn"/>
 
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00E5FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Science+Enthusiast;Turning+Data+Into+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&color=00E5FF&center=true&vCenter=true&width=850&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Explorer;Data+Science+Enthusiast;Transforming+Data+Into+Insights"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Professional Profile
 
-🚀 Entry-level **Data Analyst passionate about transforming data into insights**
+💡 Entry-level **Data Analyst passionate about data-driven decision making**
 
-🎓 **MCA Graduate – Sree Narayana Gurukulam College of Engineering**
+🎓 MCA Graduate – Sree Narayana Gurukulam College of Engineering
 
-💡 Interested in
-
-* Data Science
-* Machine Learning
-* Business Intelligence
-* AI-driven analytics
-
-📊 Experienced in
+📊 Core Skills
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 * SQL Querying
+* Data Visualization
 * Dashboard Development
-* KPI Analysis
+* Business Insights Analysis
 
 ---
 
 # 🧠 Tech Stack
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-</div>
+</p>
 
-### 📊 Analytics Tools
+### Analytics Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Database%20Analysis-orange?style=for-the-badge&logo=postgresql"/>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-Analytics-green?style=for-the-badge&logo=microsoft-excel"/>
+
+<img src="https://img.shields.io/badge/Pandas-EDA-darkblue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-purple?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Data Analytics Projects
+# 🚀 Featured Projects
 
-## 🛍 Customer Shopping Behavior Analysis
+### 🛍 Customer Shopping Behavior Analysis
 
-📊 **Tools:** Python | SQL | Power BI
+📊 Python | SQL | Power BI
 
-✨ Highlights
+Analysed **3900+ customer purchase records** to identify spending patterns and customer segments.
+Built **interactive Power BI dashboards** and extracted business insights using SQL.
 
-* Analysed **3900+ customer purchase records**
-* Performed **EDA using Pandas & NumPy**
-* Extracted insights using **SQL queries**
-* Built **interactive Power BI dashboards**
-* Identified high-spending customer segments
+🔗 https://github.com/Karthi2001MCA/Customer-Shopping-Behavior-Analysis
 
 ---
 
-## 📈 Regional Sales Analysis
+### 📈 Regional Sales Analysis
 
-📊 **Tools:** Python | SQL | Power BI
+📊 Python | SQL | Power BI
 
-✨ Highlights
+Analysed **5 years of regional sales data** to identify trends, profit margins, and top performing products.
+Created **KPI dashboards and profitability insights**.
 
-* Analysed **5 years of regional sales data**
-* Created **profit and profit margin features**
-* Identified **top revenue products**
-* Built **interactive Power BI KPI dashboards**
-* Discovered seasonal trends and profitable channels
+🔗 https://github.com/Karthi2001MCA/Regional-Sales-Analysis
 
 ---
 
@@ -109,13 +101,12 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 Certifications
 
-<p align="center">
-
-<img src="https://github.com/Karthi2001MCA/Karthi2001MCA/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
+• NPTEL – Database Management Systems
+• NPTEL – Data Mining
+• PHP & MySQL Software Development
+• Data Analytics Certification (Python, SQL, Power BI)
 
 ---
 
@@ -135,10 +126,20 @@
 
 ---
 
+# 🛰 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Karthi2001MCA&color=blue&style=for-the-badge">
+
+</p>
+
+---
+
 <div align="center">
 
 ### ⚡ Turning Data Into Intelligence
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
 </div>
